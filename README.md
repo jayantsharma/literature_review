@@ -49,6 +49,7 @@
 5. [Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach](https://arxiv.org/abs/1704.02447)
 7. [MAP Visibility Estimation for Large-Scale Dynamic 3D Reconstruction](https://www.cs.cmu.edu/~hanbyulj/14/CVPR_2014_Visibility.pdf)
 8. [Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction](https://arxiv.org/abs/1801.03910)
+9. [Hyun Soo's SfM tutorial](https://www-users.cs.umn.edu/~hspark/sfm_tutorial/)
 
 
 ## Person Re-Identification
