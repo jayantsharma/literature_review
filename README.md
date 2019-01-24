@@ -16,6 +16,7 @@
 3. [Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/abs/1712.04440)
 4. [Straight lines have to be straight](https://link.springer.com/content/pdf/10.1007/PL00013269.pdf)
 5. [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+6. [High-Speed Tracking with Kernelized Correlation Filters](https://arxiv.org/abs/1404.7584)
 
 
 ## Spherical CNN
@@ -25,6 +26,7 @@
 
 ## First Person Vision
 1. [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/abs/1702.03920)
+2. [Visual Representations for Semantic Target Driven Navigation](https://arxiv.org/abs/1805.06066)
 2. [ECO: Egocentric Cognitive Mapping](https://arxiv.org/abs/1812.00312)
 3. [Learning to See by Moving](https://arxiv.org/abs/1505.01596)
 4. [Egocentric Future Localization](https://www-users.cs.umn.edu/~hspark/future_loc.html)
@@ -40,7 +42,7 @@
 6. [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://www.cs.cmu.edu/~hanbyulj/totalcapture/)
 7. [ReTiCaM: Real-time Human Performance Capture from Monocular Video](https://gvv.mpi-inf.mpg.de/projects/ReTiCaM/)
 8. [3D Menagerie: Modeling the 3D shape and pose of animals](http://smal.is.tue.mpg.de/)
-
+9. [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/abs/1712.06584)
 
 ## Multiview Geometry
 1. [Hand Keypoint Detection in Single Images using Multiview Bootstrapping](https://arxiv.org/abs/1704.07809)
@@ -51,6 +53,10 @@
 7. [MAP Visibility Estimation for Large-Scale Dynamic 3D Reconstruction](https://www.cs.cmu.edu/~hanbyulj/14/CVPR_2014_Visibility.pdf)
 8. [Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction](https://arxiv.org/abs/1801.03910)
 9. [Hyun Soo's SfM tutorial](https://www-users.cs.umn.edu/~hspark/sfm_tutorial/)
+10. [Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors](https://arxiv.org/abs/1807.00966)
+11. [Dense 3D Motion Capture from Synchronized Video Streams](https://link.springer.com/chapter/10.1007/978-3-642-12392-4_9)
+12. [Multi-view supervision for single-view reconstruction via differentiable ray consistency](https://shubhtuls.github.io/drc/)
+13. [Unsupervised Learning of Depth and Ego-Motion from Video](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
 
 
 ## Person Re-Identification
