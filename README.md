@@ -17,6 +17,7 @@
 4. [Straight lines have to be straight](https://link.springer.com/content/pdf/10.1007/PL00013269.pdf)
 5. [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 6. [High-Speed Tracking with Kernelized Correlation Filters](https://arxiv.org/abs/1404.7584)
+7. [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
 
 
 ## Spherical CNN
