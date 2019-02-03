@@ -44,6 +44,7 @@
 7. [ReTiCaM: Real-time Human Performance Capture from Monocular Video](https://gvv.mpi-inf.mpg.de/projects/ReTiCaM/)
 8. [3D Menagerie: Modeling the 3D shape and pose of animals](http://smal.is.tue.mpg.de/)
 9. [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/abs/1712.06584)
+10. [Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking]
 
 ## Multiview Geometry
 1. [Hand Keypoint Detection in Single Images using Multiview Bootstrapping](https://arxiv.org/abs/1704.07809)
