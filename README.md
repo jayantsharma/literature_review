@@ -25,10 +25,14 @@
 2. [Learning Spherical Convolution for Fast Features from 360° Imagery](http://www.cs.utexas.edu/%7Egrauman/papers/sphconv-nips2017.pdf)
 
 
-## First Person Vision
+## Cognitive Mapping
 1. [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/abs/1702.03920)
 2. [Visual Representations for Semantic Target Driven Navigation](https://arxiv.org/abs/1805.06066)
 2. [ECO: Egocentric Cognitive Mapping](https://arxiv.org/abs/1812.00312)
+3. [Neural Scene Representation and Learning](https://deepmind.com/blog/neural-scene-representation-and-rendering/)
+
+
+## First Person Vision
 3. [Learning to See by Moving](https://arxiv.org/abs/1505.01596)
 4. [Egocentric Future Localization](https://www-users.cs.umn.edu/~hspark/future_loc.html)
 5. [Force from Motion: Decoding Physical Sensation from a First Person Video](https://www-users.cs.umn.edu/~hspark/ffm.html)
